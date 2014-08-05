@@ -112,8 +112,6 @@
 		D3717A69198FED1800D94A34 /* Furtunator */ = {
 			isa = PBXGroup;
 			children = (
-				D3717A72198FED1800D94A34 /* LYAppDelegate.h */,
-				D3717A73198FED1800D94A34 /* LYAppDelegate.m */,
 				D3717A75198FED1800D94A34 /* Main.storyboard */,
 				D3717A78198FED1800D94A34 /* LYViewController.h */,
 				D3717A79198FED1800D94A34 /* LYViewController.m */,
@@ -126,6 +124,8 @@
 		D3717A6A198FED1800D94A34 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D3717A72198FED1800D94A34 /* LYAppDelegate.h */,
+				D3717A73198FED1800D94A34 /* LYAppDelegate.m */,
 				D3717A6B198FED1800D94A34 /* Furtunator-Info.plist */,
 				D3717A6C198FED1800D94A34 /* InfoPlist.strings */,
 				D3717A6F198FED1800D94A34 /* main.m */,

@@ -10,4 +10,6 @@
 
 @interface LYViewController : UIViewController
 
+- (IBAction)buttonPressed;
+@property (weak, nonatomic) IBOutlet UILabel *predictionLabel;
 @end
